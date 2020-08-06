@@ -15,7 +15,7 @@ Spliting dataset:
   
   Classification:
   - NN
-  - KNN - (best results, almost 100% of presition)
+  - KNN - (best results, almost 100% of accuracy)
   - NM
   - kNM
   
